@@ -1,5 +1,5 @@
 # Hamburguer-Restaurant-Landing-page
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
