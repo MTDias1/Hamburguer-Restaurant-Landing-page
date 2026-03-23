@@ -56,6 +56,7 @@ p{
 
 .vitrine{
     display: flex;
+    flex-wrap: wrap;
     width: 70vw;
     height: auto;
     background-color: #3B1F0F;
